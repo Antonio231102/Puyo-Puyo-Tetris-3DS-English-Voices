@@ -1,2 +1,2 @@
-# Puyo-Puyo-Tetris-3DS-English-Voices
-Puyo Puyo Tetris - English Voices for 3DS
+# Puyo Puyo Tetris 3DS - English Voices
+Voices from the English-localized versions of Puyo Puyo Tetris for the Nintendo 3DS
